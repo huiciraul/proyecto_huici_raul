@@ -6,7 +6,8 @@
     <link rel="stylesheet" href="..\assets\css\footer.css">
     <!-- <link rel="stylesheet" href="../../assets/css/bootstrap-grid.css"> -->
     <link rel="stylesheet" href="..\assets\css\general.css">
-    <title>Document Title</title>
+    <script src="https://kit.fontawesome.com/a25933befb.js" crossorigin="anonymous"></script>
+    <title>Footer</title>
 </head>
 <body>
 <!-- import React from "react";

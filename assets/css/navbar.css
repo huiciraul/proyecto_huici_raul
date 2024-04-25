@@ -27,7 +27,10 @@
     box-shadow: 0 2px 8px 2px rgba(178, 178, 178, 0.334); 
 }
 .navBarSection .headernav.scrolled .navList .navItem a {
-    color: var(--BlackColor);
+    color: var(--PrimaryColor);
+}
+.navBarSection .headernav.scrolled .navList .navItem a .navLink {
+    color: var(--PrimaryColor);
 }
 .navBarSection .headernav.scrolled .navList .navItem button a {
     color: var(--WhiteColor);
@@ -59,7 +62,7 @@
     margin-right: .5rem;
 }
 .navList .navItem a{
-    color: var(--WhiteColor);
+    color: gray;
 }
 
 .headerBtns .btn a {

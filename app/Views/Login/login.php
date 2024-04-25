@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Login</title>
     <link rel="stylesheet" href="..\assets\css\login.css">
     <script src="https://kit.fontawesome.com/a25933befb.js" crossorigin="anonymous"></script>   
 </head>
@@ -11,7 +11,7 @@
     <div class="containerLogin">
         <div class="form-content">
             <h1 id="title">
-                Registro  
+                Registro 
             </h1>
             <form action="">
                 <div class="input-group">

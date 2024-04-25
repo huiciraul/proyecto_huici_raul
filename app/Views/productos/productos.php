@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Productos</title>
     <link rel="stylesheet" href="..\assets\css\productos.css">
     <script src="https://kit.fontawesome.com/a25933befb.js" crossorigin="anonymous"></script></head>
 <body>
