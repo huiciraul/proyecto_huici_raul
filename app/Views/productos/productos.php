@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Productos</title>
-    <link rel="stylesheet" href="..\assets\css\productos.css">
+    <link rel="stylesheet" href="assets\css\productos.css">
     <script src="https://kit.fontawesome.com/a25933befb.js" crossorigin="anonymous"></script></head>
 <body>
     <section class="container container-features">
@@ -49,7 +49,7 @@
     <div class="container-categories">     
         <div class="singleDestination">
             <div class="destImage">
-                <img src="../assets/img/tipoIndumentaria.jpg" alt="Indumentaria Image">
+                <img src="assets/img/tipoIndumentaria.jpg" alt="Indumentaria Image">
                 <div class="overlayInfo">
                     <h3>Camisetas</h3>
                     <p>Indumentaria</p>
@@ -68,7 +68,7 @@
         </div>
         <div class="singleDestination">
             <div class="destImage">
-                <img src="../assets/img/tipoAccesorios.jpg" alt="Indumentaria Image">
+                <img src="assets/img/tipoAccesorios.jpg" alt="Indumentaria Image">
                 <div class="overlayInfo">
                     <h3>Mochilas</h3>
                     <p>Accesorios</p>
@@ -87,7 +87,7 @@
         </div>
         <div class="singleDestination">
             <div class="destImage">
-                <img src="../assets/img/tipoCalzado.jpg" alt="Indumentaria Image">
+                <img src="assets/img/tipoCalzado.jpg" alt="Indumentaria Image">
                 <div class="overlayInfo">
                     <h3>Zapatillas</h3>
                     <p>Calzados</p>
@@ -115,7 +115,7 @@
         <div class="container-products">
             <div class="card-products">
                 <div class="container-img">
-                    <img src="../assets/img/producto1.jpg" alt="camiseta de river">
+                    <img src="assets/img/producto1.jpg" alt="camiseta de river">
                     <div class="discount"> 
                         -20%
                     </div>
@@ -131,7 +131,7 @@
                     <!-- pdto2 -->
             <div class="card-products">
                 <div class="container-img">
-                    <img src="../assets/img/producto2.jpg" alt="camiseta de river">
+                    <img src="assets/img/producto2.jpg" alt="camiseta de river">
                     <div class="discount"> 
                         -20%
                     </div>
@@ -147,7 +147,7 @@
                   <!-- pdto3 -->
             <div class="card-products">
                 <div class="container-img">
-                    <img src="../assets/img/producto3.jpg" alt="camiseta de river">
+                    <img src="assets/img/producto3.jpg" alt="camiseta de river">
                     <div class="discount"> 
                         -20%
                     </div>

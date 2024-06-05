@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiénes Somos</title>
-    <link rel="stylesheet" href="../assets/css/quienes_somos.css">
+    <link rel="stylesheet" href="assets/css/quienes_somos.css">
 </head>
 <body>
     <div class="container-quienessomos">    
@@ -28,7 +28,7 @@
             <h2>Team </h2>
             <p>Owner </p>
             <d class="contenedor-testimonio">
-                <img class="imagen-testimonio" src="..\assets\img\Perfil.jpg" alt="foto de Cesar Raul Huici">
+                <img class="imagen-testimonio" src="assets\img\Perfil.jpg" alt="foto de Cesar Raul Huici">
                 <p class="nombre-testimonio">
                     <a href="https://www.linkedin.com/in/cesar-raul-huici-bb8782215/">Cesar Raul Huici</a>  
                 </p>
